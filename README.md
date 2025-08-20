@@ -1,0 +1,2 @@
+# ninjas
+only image
